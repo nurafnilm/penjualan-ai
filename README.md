@@ -1,4 +1,8 @@
 Python ini dijalankan menggunakan uv.
+```
+uv venv
+.venv\Scripts\activate
+```
 
 ## Install Dependencies
 ```
