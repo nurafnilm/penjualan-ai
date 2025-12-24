@@ -44,3 +44,11 @@ date,projected_quantity
     }
   ]
 }
+
+## screenshoot percobaan
+memasukkan file csv:
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/0ec4e390-f83b-4487-9b81-03ab233c3109" />
+
+respons:
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/a0e090a3-4edc-4975-b0c4-cf9f03c88806" />
+
