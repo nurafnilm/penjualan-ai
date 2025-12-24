@@ -13,6 +13,8 @@ uv pip install numpy
 uv pip install prophet
 uv pip install python-multipart
 ```
+## Siapkan model (opsional karena bisa train langsung)
+`models/prophet_model.json`
 
 ## Run the Server
 `uv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000`
